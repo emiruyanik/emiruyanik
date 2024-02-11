@@ -1,9 +1,9 @@
-# 💫 Hello, I'm Oguzhan
+# 💫 Hello, I'm Emir
 
 <table>
   <tr>
     <td>
-      I'm actively engaging in personal projects to deepen my proficiency in Spring Boot, React, and React Native. My focus is on crafting reliable web and mobile applications, leveraging these technologies to enhance functionality and user experience.
+      I am currently immersed in hands-on projects aimed at refining my skills in Java, Cucumber, Selenium, TestNG, and RestAssured. My primary goal is to elevate my expertise in software development and testing, with a particular emphasis on creating robust and efficient test suites. Through these initiatives, I am dedicated to enhancing the quality and reliability of software applications by leveraging my proficiency in these technologies. My focus lies in ensuring comprehensive test coverage and delivering high-performance solutions that meet and exceed user expectations.
     </td>
     <td>
       <img src="https://github.com/emiruyanik/emiruyanik/assets/141172584/580231ce-dc3f-413c-8ff9-58aa4bb77591"  width="350"/>
