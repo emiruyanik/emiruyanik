@@ -20,7 +20,7 @@
   <img src="https://www.svgrepo.com/show/376344/python.svg" height="55" alt="python logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="55" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/376335/maven.svgheight="55" alt="maven logo"  />
+  <img src="https://www.svgrepo.com/show/376335/maven.svg"height="55" alt="maven logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="55" alt="cucumber logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo"  />
   <img width="12" />
